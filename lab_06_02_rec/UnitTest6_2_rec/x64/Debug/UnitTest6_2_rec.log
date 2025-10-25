@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  UnitTest6_2_rec.cpp
+F:\Project\lab_06_02_rec\lab_06_02_rec\lab_06_02_rec.cpp(51,1): warning C4715: 'findMaxNum': not all control paths return a value
+F:\Project\lab_06_02_rec\lab_06_02_rec\lab_06_02_rec.cpp(37,1): warning C4715: 'findMinNum': not all control paths return a value
+     Creating library F:\Project\lab_06_02_rec\x64\Debug\UnitTest6_2_rec.lib and object F:\Project\lab_06_02_rec\x64\Debug\UnitTest6_2_rec.exp
+  UnitTest6_2_rec.vcxproj -> F:\Project\lab_06_02_rec\x64\Debug\UnitTest6_2_rec.dll
